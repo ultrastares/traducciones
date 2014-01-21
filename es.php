@@ -1,6 +1,6 @@
 <?php
 
-return [
+return $lang=[
 		//Common
 		"AT"=>"a las",
 		"BY"=>"por",
