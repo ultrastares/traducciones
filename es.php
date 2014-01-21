@@ -15,7 +15,7 @@ return $lang=array(
 		"MENU_SONGS"=>"Canciones",
 		"MENU_CONTEST"=>"Concursos",
 		"MENU_PROGRAMS"=>"Programas y complementos",
-		"MENU_TUTORIALS"=>"Tutoriales",
+		"MENU_HELP"=>"Ayuda",
 		"MENU_FORUM"=>"Foro",
 		//Home
 		"NEWS"=>"Noticias",
