@@ -1,6 +1,6 @@
 <?php
 
-return $lang=[
+return $lang=array(
 		//Common
 		"AT"=>"a las",
 		"BY"=>"por",
@@ -150,4 +150,4 @@ return $lang=[
 		"COVERS"=>"Carátulas",
 		"PROGRAMS"=>"Programas",
 		"PROGRAMS_SONG"=>"Programas para la creación de canciones",
-    ];
+    );
