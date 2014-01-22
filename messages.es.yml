@@ -1,2 +1,16 @@
-comun:
-	songs:canciones
+menu:
+    canciones: Canciones
+    listas: Listas de canciones
+    peticiones: Canciones pedidas
+    peticion: Petición de canciones
+    subir_cancion: Subir canciones nuevas
+    silabeador: Silabeador de canciones
+    reparador: Reparador de canciones
+    insertar: Insertar canciones nuevas
+    concursos: Concursos
+    puntuaciones: Puntuaciones
+    subir_puntuacion: Subir archivo con tus puntuaciones
+    txt: Bajar archivo con todas las puntuaciones
+    programas: Programas
+    ayuda: Ayuda
+    foro: Foro
