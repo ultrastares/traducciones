@@ -1,0 +1,16 @@
+menu:
+    canciones: Songs
+    listas: Songs list
+    peticiones: Requested songs
+    peticion: Request song
+    subir_cancion: Upload new songs
+    silabeador: Syllabicator
+    reparador: Fix songs
+    insertar: Insert new songs
+    concursos: Contest
+    puntuaciones: Scores
+    subir_puntuacion: Upload your scores file
+    txt: Download file with all scores
+    programas: Programs
+    ayuda: Help
+    foro: Forum
