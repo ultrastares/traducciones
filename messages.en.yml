@@ -14,3 +14,12 @@ menu:
     programas: Programs
     ayuda: Help
     foro: Forum
+buscador:
+    busqueda: What do you sing today?
+    tipo: Search by
+    tipo_1: Artist, song and comment
+    tipo_2: Artist
+    tipo_3: Song
+    lista: Song list
+    idioma: Language
+    creador: Creator
