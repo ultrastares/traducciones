@@ -1,4 +1,4 @@
-menu:
+_:
   canciones: Canciones
   listas: Listas de canciones
   peticiones: Canciones pedidas
@@ -14,3 +14,12 @@ menu:
   programas: Programas
   ayuda: Ayuda
   foro: Foro
+  busqueda: ¿Qué quieres cantar hoy?
+  tipo: Buscar por
+  tipo_1: Artista, canción y comentario
+  tipo_2: Artista
+  tipo_3: Canción
+  lista: Lista de canciones
+  idioma: Idioma
+  creador: Creador
+  descargar_canciones: Descargar canciones

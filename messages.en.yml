@@ -1,4 +1,5 @@
-menu:
+_:
+    #MENU
     canciones: Songs
     listas: Songs list
     peticiones: Requested songs
@@ -14,7 +15,7 @@ menu:
     programas: Programs
     ayuda: Help
     foro: Forum
-buscador:
+    #SEARCH FORM
     busqueda: What do you sing today?
     tipo: Search by
     tipo_1: Artist, song and comment
@@ -23,3 +24,5 @@ buscador:
     lista: Song list
     idioma: Language
     creador: Creator
+    #CANCIONES
+    descargar_canciones: Download songs
